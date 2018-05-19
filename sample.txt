@@ -12,7 +12,7 @@
         <font color="black">saranari</font>
       </li>
       <li>
-        <font color="red">‚±‚±‚Ì•¶Žš‚ð•Ï‚¦‚Ä‚Ë</font>
+        <font color="red">change this word</font>
       </li>
     </ul>
   </body>
